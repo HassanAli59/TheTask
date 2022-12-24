@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\mision\mision\bin\Debug\net6.0-windows\mision.exe
+C:\Users\DELL\source\repos\mision\mision\bin\Debug\net6.0-windows\mision.deps.json
+C:\Users\DELL\source\repos\mision\mision\bin\Debug\net6.0-windows\mision.runtimeconfig.json
+C:\Users\DELL\source\repos\mision\mision\bin\Debug\net6.0-windows\mision.dll
+C:\Users\DELL\source\repos\mision\mision\bin\Debug\net6.0-windows\mision.pdb
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.Form1.resources
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.AssemblyInfo.cs
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.dll
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\refint\mision.dll
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.pdb
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\mision.genruntimeconfig.cache
+C:\Users\DELL\source\repos\mision\mision\obj\Debug\net6.0-windows\ref\mision.dll
